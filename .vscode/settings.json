@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "xiosbase": "cpp",
+        "iterator": "cpp",
+        "xstring": "cpp"
+    }
+}
